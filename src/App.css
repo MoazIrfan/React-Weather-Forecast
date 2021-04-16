@@ -1,0 +1,46 @@
+.weatherIconColor {
+  color: #a1aade;
+}
+.slick-list {
+  padding: 2px;
+  padding-left: 20px;
+}
+.slick-next.slick-disabled:before,
+.slick-prev.slick-disabled:before {
+  opacity: 0;
+  display: none;
+}
+.slick-next:before,
+.slick-prev:before {
+  font-size: 36px;
+  line-height: 0;
+  opacity: 0.75;
+  color: #3f51b5 !important;
+}
+.slick-next:before {
+  content: "\1F846";
+}
+.slick-prev:before {
+  content: "\1F844";
+}
+.MuiContainer-root {
+  width: 90% !important;
+}
+.MuiFormGroup-root {
+  display: "inherit";
+  text-align: "center";
+}
+@media only screen and (max-width: 570px) {
+  h4.MuiTypography-root {
+    font-size: 1rem;
+  }
+  h3.MuiTypography-root {
+    font-size: 1.5rem;
+  }
+  h6.MuiTypography-subtitle1 {
+    font-size: 0.6rem;
+  }
+  .owf-5x {
+    font-size: 4em;
+  }
+}
