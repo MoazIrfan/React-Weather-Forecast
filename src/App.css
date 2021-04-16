@@ -23,6 +23,10 @@
 .slick-prev:before {
   content: "\1F844";
 }
+.MuiFormGroup-row {
+  display: inherit;
+  text-align: center;
+}
 .MuiContainer-root {
   width: 90% !important;
 }
