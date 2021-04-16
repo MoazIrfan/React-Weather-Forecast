@@ -16,4 +16,6 @@ Version
 License:
 This project is licensed under the MIT License
 
+App Demo: https://zealous-mahavira-900824.netlify.app
+
 ![Preview](app-preview.png?raw=true)
